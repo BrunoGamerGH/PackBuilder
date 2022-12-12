@@ -4,9 +4,13 @@ Tool to convert resource packs from 1.6-1.19, and vice versa
 
 # (CURRENTLY IN BETA)
 
+# How can I get it?
+
+You can simply go to the [releases](https://github.com/BrunoGamerGH/PackBuilder/releases) and select any version you would like.
+
 ## How does it work?
 
-You put all the important files in the **assets** folder, theres a main **minecraft** directory which you can put all default textures (like blocks, items) and support for extra folders other than the main minecraft one (for custom textures you dont want to put in the **minecraft** directory)
+You put all the important files in the **assets** folder, theres a main **minecraft** directory which you can put all default textures (like blocks, items) and support for extra folders other than the main minecraft one (for custom textures you dont want to put in the **minecraft** directory).
 
 ## How to run?
 
