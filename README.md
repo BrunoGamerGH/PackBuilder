@@ -14,7 +14,7 @@ You put all the important files in the **assets** folder, theres a main **minecr
 
 ## How to run?
 
-There's 2 ways to run it, with the .bat file alocated with the file, or by running `java -jar PackBuilder.jar` in any terminal.
+There's 2 ways to run it, with the **run.bat** file alocated with the zip file in [releases](https://github.com/BrunoGamerGH/PackBuilder/releases), or by running `java -jar PackBuilder.jar` in any terminal.
 
 ## Why is it not converting?
 
