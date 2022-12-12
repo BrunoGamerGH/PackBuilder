@@ -1,5 +1,6 @@
 *.zip
 *.jar
+*.bat
 out/
 target/
 .idea/
